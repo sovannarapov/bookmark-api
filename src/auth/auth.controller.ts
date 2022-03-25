@@ -12,7 +12,7 @@ export class AuthController {
   }
 
   @Post('signin')
-  signin() {
-    return this._authService.signin();
+  signin(@Body() signInDto: AuthDto) {
+    return this._authService.signin(signInDto);
   }
 }
