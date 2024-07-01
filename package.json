@@ -1,10 +1,10 @@
 {
   "name": "nestjs-api-tutorial",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "A bookmark API using NestJS, PostgresQL, PassportJS, PrismaORM, and Pactum.",
+  "author": "Sovannara Pov",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "prisma:dev:deploy": "prisma migrate deploy",
     "db:dev:rm": "docker compose rm dev-db -s -f -v",
