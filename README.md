@@ -1,4 +1,4 @@
-# NestJs REST API tutorial with E2E test using PactumJS
+# NestJs REST API with E2E test using PactumJS
 
 > Learn NestJs by building a CRUD REST API with end-to-end tests using modern web development techniques. NestJs is a rapidly growing node js framework that helps build scalable and maintainable backend applications. In this course, we build a bookmarks API from scratch using nestJs, docker, postgres, passport js, prisma, pactum and dotenv.
 
